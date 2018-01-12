@@ -1,0 +1,6 @@
+<Alloy>
+	<Model src="Book"/>
+	<Window class="container">
+		<Label id="label" onClick="doClick">{name}</Label>
+	</Window>
+</Alloy>

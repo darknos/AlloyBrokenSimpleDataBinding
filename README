@@ -1,0 +1,9 @@
+ This is a simple case to describe https://jira.appcelerator.org/browse/AC-5510 issue
+
+[ERROR] Script Error {
+[ERROR]     column = 94;
+[ERROR]     line = 43;
+[ERROR]     message = "undefined is not an object (evaluating '$model.__transform')";
+[ERROR]     sourceURL = "file:///Users/admin/Library/Developer/CoreSimulator/Devices/06C42078-B48B-48B8-8F5D-DB3AFF0C537D/data/Containers/Bundle/Application/D6761704-B6B5-483A-A640-7458D347
+88C4/AlloyBrokenSimpleDataBinding.app/alloy/controllers/index.js";
+[ERROR] }
